@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AkhtyrskiyKirill
+- 👀 I’m interested in new technologies, electronics, IT, space exploration, literature and reading
+- 🌱 I’m currently learning STM32 coding, electronics.
+- 💞️ I’m looking to collaborate on embedded electronics projects.
+- 📫 You can contact me via email: k.akhtirsky@gmail.com
